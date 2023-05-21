@@ -1,0 +1,24 @@
+{
+    "hiss": {
+        "sounds": ["hiss"],
+        "threshold": {
+            ">probability": 0.9,
+            ">power": 10
+        },
+        "graceperiod": 0.05,
+        "grace_threshold": {
+            ">power": 10
+        }
+    },
+    "shh": {
+        "sounds": ["shh"],
+        "threshold": {
+            ">probability": 0.9,
+            ">power": 10
+        },
+        "graceperiod": 0.05,
+        "grace_threshold": {
+            ">power": 10
+        }
+    }
+}

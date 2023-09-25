@@ -7,14 +7,14 @@
         },
         "graceperiod": 0.05,
         "grace_threshold": {
-            ">power": 10
+            ">power": 30
         }
     },
     "shh": {
         "sounds": ["shh"],
         "threshold": {
             ">probability": 0.9,
-            ">power": 10
+            ">power": 30
         },
         "graceperiod": 0.05,
         "grace_threshold": {
